@@ -21,3 +21,5 @@
 [ESPAsyncTCP-master.zip](https://github.com/Cutiepie4/rfid-door/files/14436538/ESPAsyncTCP-master.zip)
 [CH341SER.zip](https://github.com/Cutiepie4/rfid-door/files/14436542/CH341SER.zip)
 4. tải mongodb community, tạo database tên rfid_door, tạo 2 collection tên: users + entry_logs
+5. Mô tả
+[MoTaBTL.docx](https://github.com/Cutiepie4/rfid-door/files/14438179/MoTaBTL.docx)
